@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, Next.js, PostgreSQL, Migrations
+- 🌱 I’m currently learning HTML5, CSS3 | JavaScript, TypeScript, React, Next.js | Node.js, PostgreSQL, Migrations | Accessibility
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
